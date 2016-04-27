@@ -1,5 +1,5 @@
 ---
 draft: false
-redirect_url: https://www.burningtree.io/tools/screenrda
+redirect_url: https://www.burningtree.io/tools/screenrda/
 type: redirect
 ---
