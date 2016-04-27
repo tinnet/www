@@ -8,7 +8,7 @@ publish:
 		git add $${a#*/}; \
 	done
 	git add CNAME
-	git commit -m "generated: $(date)"
+	git commit -m "generated: $$(date)"
 	git push --set-upstream origin gh-pages --force
 	git reset --hard master
 	git checkout master
